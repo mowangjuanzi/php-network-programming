@@ -20,5 +20,6 @@
   "homepage": "https://github.com/mowangjuanzi/php-network-programming#readme",
   "devDependencies": {
     "honkit": "^3.6.17"
-  }
+  },
+  "dependencies": {}
 }
